@@ -1,4 +1,4 @@
-module github.com/OpenIMSDK/protocol
+module gitee.com/yuekukeji/protocol
 
 go 1.18
 

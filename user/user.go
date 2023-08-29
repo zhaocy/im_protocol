@@ -16,7 +16,8 @@ package user
 
 import (
 	"errors"
-	"github.com/OpenIMSDK/protocol/constant"
+
+	"gitee.com/yuekukeji/protocol/constant"
 )
 
 func (x *GetAllUserIDReq) Check() error {

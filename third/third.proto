@@ -14,7 +14,7 @@
 
 syntax = "proto3";
 package OpenIMServer.third;
-option go_package = "github.com/OpenIMSDK/protocol/third";
+option go_package = "gitee.com/yuekukeji/protocol/third";
 
 message KeyValues {
   string key = 1;
